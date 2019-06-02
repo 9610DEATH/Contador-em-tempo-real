@@ -8,3 +8,4 @@ Ajudar sem serviço de compras online avisando a quantidade de produtos em estoq
 
 Escopo 
 Um programa que realiza uma função de atualização de estoque, onde o produto é atualizado de acordo com seu disponibilidade em estoque.
+https://notebooks.azure.com/idequias/projects/projeto-algor-timos/html/projeto-algoritimo.ipynb
